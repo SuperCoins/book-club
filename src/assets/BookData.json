@@ -1,0 +1,42 @@
+[
+  {
+    "ISBN": "057509334X",
+    "Title": "Oathbringer",
+    "Author": "Brandon Sanderson",
+    "Description": "The eagerly awaited sequel to the #1 New York Times bestselling Words of Radiance, from epic fantasy author Brandon Sanderson at the top of his game.",
+    "GoodreadsLink": "https://www.goodreads.com/book/show/17250961",
+    "Published": "2017",
+    "Pages": "1243",
+    "GoodreadsRating": "4.67"
+  },
+  {
+    "ISBN": "037571894X",
+    "Title": "A Wild Sheep Chase",
+    "Author": "Haruki Murakami",
+    "Description": "His life was like a recurring nightmare: a train to nowhere. But an ordinary life has a way of taking an extraordinary turn.",
+    "GoodreadsLink": "https://www.goodreads.com/book/show/20629795-a-wild-sheep-chase",
+    "Published": "1982",
+    "Pages": "299",
+    "GoodreadsRating": "3.94"
+  },
+  {
+    "ISBN": "0575089911",
+    "Title": "The Final Empire",
+    "Author": "Brandon Sanderson",
+    "Description": "In a world where ash falls from the sky, and mist dominates the night, an evil cloaks the land and stifles all life.",
+    "GoodreadsLink": "https://www.goodreads.com/book/show/6547258",
+    "Published": "2006",
+    "Pages": "647",
+    "GoodreadsRating": "4.43"
+  },
+  {
+    "ISBN": "1857987632",
+    "Title": "The City and the Stars",
+    "Author": "Arthur C. Clarke",
+    "Description": "Men had built cities before, but never such a city as Diaspar. For millennia its protective dome shut out the creeping decay and danger of the world outside. Once, it held powers that rule the stars.",
+    "GoodreadsLink": "https://www.goodreads.com/book/show/250024.The_City_and_the_Stars",
+    "Published": "1956",
+    "Pages": "255",
+    "GoodreadsRating": "4.09"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "FirstName": "Thomas",
+    "LastName": "Forde",
+    "NickName": "eats books for breakfast",
+    "Username": "SuperCoins",
+    "SpiritAnimal": "Yes",
+    "FavouriteBook": "Name of the Wind",
+    "VotedBook": "That novel of 50 000 meows"
+  },
+  {
+    "FirstName": "Michael",
+    "LastName": "Beasley",
+    "NickName": "theory crafting 5 books down the road",
+    "Username": "Hexi",
+    "SpiritAnimal": "Pupper",
+    "FavouriteBook": "Red Rising",
+    "VotedBook": "The Bee Bible"
+  },
+  {
+    "FirstName": "Huw",
+    "LastName": "Talliss",
+    "NickName": "young adult is best adult",
+    "Username": "Zonalhaz",
+    "SpiritAnimal": "Sloth",
+    "FavouriteBook": "Lord of the Rings",
+    "VotedBook": "The Very Hungry Caterpillar"
+  },
+  {
+    "FirstName": "Daniel",
+    "LastName": "James",
+    "NickName": "post modernism is the future",
+    "Username": "cesque",
+    "SpiritAnimal": "A keyboard",
+    "FavouriteBook": "Thud",
+    "VotedBook": "A stack of 500 sheets of Xerox Printer Paper A4 80gsm"
+  },
+  {
+    "FirstName": "Benjamin",
+    "LastName": "Beasley",
+    "NickName": "eats books for breakfast",
+    "Username": "PrivatePing",
+    "SpiritAnimal": "Badger",
+    "FavouriteBook": "TBA",
+    "VotedBook": "nope"
+  },
+  {
+    "FirstName": "Jak",
+    "LastName": "Barnes",
+    "NickName": "theory crafting 5 books down the road",
+    "Username": "Syphonx",
+    "SpiritAnimal": "Potato",
+    "FavouriteBook": "Bleh",
+    "VotedBook": "The Bee Bible"
+  },
+  {
+    "FirstName": "Daniel",
+    "LastName": "Beasley",
+    "NickName": "young adult is best adult",
+    "Username": "Bruzezeazaly",
+    "SpiritAnimal": "Sloth",
+    "FavouriteBook": "Lord of the Rings",
+    "VotedBook": "The Very Hungry Caterpillar"
+  },
+  {
+    "FirstName": "Dog",
+    "LastName": "",
+    "NickName": "post modernism is the future",
+    "Username": "loterally just a picture if a dog",
+    "SpiritAnimal": "A keyboard",
+    "FavouriteBook": "Thud",
+    "VotedBook": "A stack of 500 sheets of Xerox Printer Paper A4 80gsm"
+  }
+]
